@@ -1,6 +1,6 @@
 # Study
 
-공부 발표 내용 기록
+발표 내용 기록
 
 ## Adversarial Attack
 
